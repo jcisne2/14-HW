@@ -53,7 +53,7 @@ express-session
 
 connect-session-sequalize
 
-Heroku (tried)
+Heroku (tried but it does run locally)
 
 ## Contributors 😃
 
