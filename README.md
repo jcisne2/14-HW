@@ -31,7 +31,8 @@ SO THAT I can publish articles, blog posts, and my thoughts and opinions
 
 ![home](https://user-images.githubusercontent.com/108189023/210481539-02a8285c-d9bb-4619-a2a8-5ff710fffb7b.png)
 
-![creating post](https://user-images.githubusercontent.com/108189023/210481544-fcd4c4ef-908a-4d7f-bef3-e42fa10d6530.png)
+![creating post](https://user-images.githubusercontent.com/108189023/210482826-c335d53c-68b8-45b6-85c7-672dc5796917.png)
+
 
 ```
 
